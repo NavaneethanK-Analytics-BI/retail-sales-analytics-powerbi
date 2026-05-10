@@ -65,5 +65,26 @@ This project follows a star schema data model approach using fact and dimension 
 ![Retail Sales Dashboard](Dashboard-Screenshots/customer-analysis.png)
 ![Retail Sales Dashboard](Dashboard-Screenshots/product-performance.png)
 
+---
+
+## 📚 Project Documentation
+
+### KPI Definitions
+Detailed KPI business definitions and DAX measures are available in the Documentation folder.
+
+### SQL Scripts
+SQL scripts used for:
+- Fact table creation
+- Dimension modeling
+- Monthly sales analysis
+- Data transformations
+
+### DAX Measures
+Key business KPIs and calculations implemented using DAX:
+- Total Sales
+- Average Order Value
+- Sales YoY
+- Returning Customers
+- Time Intelligence Measures
 
 
