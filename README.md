@@ -51,7 +51,13 @@ This project follows a star schema data model approach using fact and dimension 
 - Enabled data-driven business decision making
 
 ---
+## 🚀 Future Enhancements
+- Row-Level Security (RLS)
+- Incremental Refresh
+- Advanced Forecasting
+- Power BI Service Deployment
 
+---  
 ## 📊 Dashboard Preview
 
 ![Retail Sales Dashboard](Dashboard-Screenshots/executive-overview.png)
@@ -60,8 +66,4 @@ This project follows a star schema data model approach using fact and dimension 
 ![Retail Sales Dashboard](Dashboard-Screenshots/product-performance.png)
 
 
-## 🚀 Future Enhancements
-- Row-Level Security (RLS)
-- Incremental Refresh
-- Advanced Forecasting
-- Power BI Service Deployment
+
