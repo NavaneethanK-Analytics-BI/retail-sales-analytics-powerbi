@@ -5,7 +5,11 @@ This project demonstrates an end-to-end Retail Sales Analytics solution built us
 
 The dashboard helps business users analyze sales performance, profitability, customer trends, and regional insights through interactive visualizations and KPI tracking.
 
+![Retail Sales Dashboard](Dashboard-Screenshots/executive-overview.png)
+![Retail Sales Dashboard](Dashboard-Screenshots/sales-time-trends.png)
 ![Retail Sales Dashboard](Dashboard-Screenshots/customer-analysis.png)
+![Retail Sales Dashboard](Dashboard-Screenshots/product-performance.png)
+
 ---
 
 ## 🛠 Tools & Technologies
